@@ -1,37 +1,34 @@
-Pasos para hacer una pizza de pepperoni🍕:
+# Pasos para hacer una Pizza de Pepperoni 🍕
 
 1. **Preparar los ingredientes:**
    - Masa para pizza
    - Salsa de tomate
-   - Queso mozzarella
+   - Queso mozzarella rallado
    - Rodajas de pepperoni
    - Aceitunas (opcional)
-   - Oregano y otras especias (opcional)
+   - Orégano y otras especias al gusto
 
-2. **Preparar la masa:**
-   - Extiende la masa en una superficie con harina hasta obtener el tamaño deseado.
-   - Coloca la masa en una bandeja para hornear pizza.
+2. **Precalentar el horno:**
+   Precalentar el horno a la temperatura indicada en las instrucciones de la masa para pizza (generalmente alrededor de 200-220°C).
 
-3. **Agregar la salsa:**
-   - Extiende una capa uniforme de salsa de tomate sobre la masa que la cubra completamente.
+3. **Extender la masa:**
+   Colocar la masa en una superficie enharinada y usar un rodillo para extenderla en un círculo del tamaño deseado.
 
-4. **Añadir el queso y los ingredientes:**
-   - Espolvorea el queso mozzarella sobre la salsa.
-   - Coloca las rodajas de pepperoni sobre el queso.
-   - Agrega las aceitunas si lo deseas.
+4. **Transferir la masa:**
+   Colocar la masa extendida en una bandeja para pizza o en una piedra para pizza enharinada.
 
-5. **Condimentar y hornear:**
-   - Espolvorea un poco de orégano y otras especias sobre la pizza.
-   - Precalienta el horno entre 10 a 15 minutos a una temperatura de 225C°.
+5. **Agregar la salsa:**
+   Extender una capa uniforme de salsa de tomate sobre la masa, dejando un borde libre alrededor.
 
-6. **Hornear la pizza:**
-   - Coloca la bandeja con la pizza en el horno precalentado.
-   - Hornea durante el tiempo indicado (entre 10-15 minutos) hasta que la masa esté dorada y el queso esté derretido y burbujeante.
+6. **Añadir el queso:**
+   Espolvorear generosamente queso mozzarella rallado sobre la salsa.
 
-7. **Servir y disfrutar:**
-   - Saca la pizza del horno con cuidado.
-   - Deja enfriar un poco antes de cortarla en porciones.
-   - ¡Sirve caliente y disfruta de tu deliciosa pizza de pepperoni!
+7. **Colocar el pepperoni:**
+   Distribuir las rodajas de pepperoni sobre el queso, asegurándote de cubrir la pizza de manera uniforme.
 
-¡Buen provecho!
+8. **Añadir otros ingredientes (opcional):**
+   Si lo deseas, puedes agregar aceitunas u otros ingredientes de tu elección en este punto.
+
+9. **Espolvorear especias:**
+   Agregar una pizca de orégano y otras especias según tu gusto para darle sabor adicional.
 
