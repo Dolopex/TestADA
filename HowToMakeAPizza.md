@@ -31,4 +31,13 @@
 
 9. **Espolvorear especias:**
    Agregar una pizca de orégano y otras especias según tu gusto para darle sabor adicional.
+10. **Hornear la pizza:**
+    Colocar la pizza en el horno precalentado y hornear según las instrucciones de la masa, generalmente durante 12-15 minutos o hasta que la masa esté dorada y el queso esté derretido y burbujeante.
 
+11. **Sacar y cortar:**
+    Usar guantes de cocina para sacar la pizza del horno. Dejar enfriar ligeramente antes de cortarla en porciones.
+
+12. **¡Disfrutar**
+    Servir tu deliciosa pizza de pepperoni caliente y disfrutar de cada bocado.
+
+¡Buen provecho!
